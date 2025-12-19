@@ -4,6 +4,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../models/player.dart';
 import '../models/enemy.dart';
 import '../models/game_state.dart';
+import '../models/attack.dart'; // Added import for AttackType
 import '../widgets/fighter_widget.dart';
 import '../widgets/game_ui.dart';
 import '../widgets/background_widget.dart';

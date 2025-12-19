@@ -1,4 +1,5 @@
 import 'fighter.dart';
+import 'attack.dart'; // Added import for AttackType
 import 'dart:math';
 
 class Enemy extends Fighter {
